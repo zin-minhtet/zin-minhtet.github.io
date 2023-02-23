@@ -1,0 +1,33 @@
+html {
+    font-family: "Permanent Marker";
+    font-size: 12px;
+    background-color: #f49a33;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    pad: 20px 0;
+    color: #2b8fe7;
+    text-shadow: 3px 3px 2px white;
+}
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ff7a3d;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+img {
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+}
